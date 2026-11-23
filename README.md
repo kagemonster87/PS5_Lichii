@@ -1,5 +1,28 @@
-# PS5 Lchii
-## Q: What Is This Project?
-- **A: A Archive Of PS5_Lichii By Mihawk_99**
-## Q: Why Does This Project Exist?
-- **A: It Is For If Mihawk_99 Allows Me To Publish This, Or If The Orignal PS5 Lichii Gets Taken Down From It's Current Repo.**
+# PS5_Lichii-Archive
+
+An archival mirror of **PS5_Lichii** by **Mihawk_99** (Alpha 2 / v0.2.0).
+
+## Q&A
+
+### Q: What is this project?
+
+**A:** A preservation archive of **PS5_Lichii** (Alpha 2 / v0.2.0), mirrored across GitHub and GitLab.
+
+### Q: Why does this project exist?
+
+**A:** To preserve original release files and documentation.
+
+### Q: Are games, keys, or firmware included?
+
+**A:** **No.** No copyrighted games, firmware, or keys are included.
+
+## Archived Versions
+
+| Version | Release Date | Notes |
+| :--- | :--- | :--- |
+| Alpha 2 (v0.2.0) | Nov 23, 2026 | Initial archived build |
+
+## Mirrors
+
+* **GitHub:** [kagemonster87/PS5_Lichii-Archive](https://github.com/kagemonster87/PS5_Lichii-Archive)
+* **GitLab:** [The Archivists / P5NS2](https://gitlab.com/the-archivists/p5ns2/p5ns2)
