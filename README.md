@@ -1,5 +1,5 @@
 # PS5_Lichii-Archive
-
+### (Note: PS5 Lichii Has Been Discontinued For PS5 Mariachii)
 An archival mirror of **PS5_Lichii** by **Mihawk_99** (Alpha 2 / v0.2.0).
 
 ## Q&A
@@ -24,7 +24,7 @@ An archival mirror of **PS5_Lichii** by **Mihawk_99** (Alpha 2 / v0.2.0).
 
 | Version | Release Date | Notes |
 | :--- | :--- | :--- |
-| Alpha 2 (v0.2.0) | Nov 23, 2026 | Initial archived build |
+| Alpha 2 (v0.2.0) (Final Update/Version) | Nov 23, 2026 | Initial archived build |
 
 ## Mirrors
 
