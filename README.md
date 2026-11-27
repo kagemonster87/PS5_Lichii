@@ -16,6 +16,10 @@ An archival mirror of **PS5_Lichii** by **Mihawk_99** (Alpha 2 / v0.2.0).
 
 **A:** **No.** No copyrighted games, firmware, or keys are included.
 
+### Q: When Will It Be Released?
+
+**A:** If Mihawk Gives Permission Or If PS5 Lichii Is Considered Obsolete.
+
 ## Archived Versions
 
 | Version | Release Date | Notes |
@@ -25,4 +29,4 @@ An archival mirror of **PS5_Lichii** by **Mihawk_99** (Alpha 2 / v0.2.0).
 ## Mirrors
 
 * **GitHub:** [kagemonster87/PS5_Lichii-Archive](https://github.com/kagemonster87/PS5_Lichii-Archive)
-* **GitLab:** [The Archivists / P5NS2](https://gitlab.com/the-archivists/p5ns2/p5ns2)
+* **GitLab:** [The Archivists / P5NS2](https://gitlab.com/the-archivists/p5ns2/p5ns2) (Privated For Now)
